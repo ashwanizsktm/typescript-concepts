@@ -1,0 +1,10 @@
+what is typeScript
+
+1. typed superset of javascript
+2. Developed by microsoft
+3. Object oriented
+
+Benifits over javascript
+1. Easy code management
+2. Support Ecmascript
+3. we can use class, interface data tapes etc.
